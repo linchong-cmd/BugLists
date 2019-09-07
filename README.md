@@ -6,8 +6,8 @@
 
 ```
 ### Struts2
-[+] [S2-054](https://github.com/linchong-cmd/BugLists/blob/master/S2-052.md)
+[+] [S2-053](https://github.com/linchong-cmd/BugLists/blob/master/S2-052.md)
 
-[+]S2-052
+[+][S2-052](https://github.com/linchong-cmd/BugLists/blob/master/S2-052.md)
 
-[+]S2-048
+[+][S2-048](https://github.com/linchong-cmd/BugLists/blob/master/S2-048.md)
