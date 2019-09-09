@@ -12,6 +12,8 @@
 
 [+][S2-048](https://github.com/linchong-cmd/BugLists/blob/master/S2-048.md) CVE-2017-9791
 
+[+][S2-046](https://github.com/linchong-cmd/BugLists/blob/master/S2-046.md) CVE-2017-5638
+
 [+][S2-045](https://github.com/linchong-cmd/BugLists/blob/master/S2-045.md) CVE-2017-5638
 
 [+][S2-037](https://github.com/linchong-cmd/BugLists/blob/master/S2-037.md) CVE-2016-4438
