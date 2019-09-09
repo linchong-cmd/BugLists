@@ -28,4 +28,4 @@
 
 ### 遇到过的其他CVE
 
-[+][S2-009](https://github.com/linchong-cmd/BugLists/blob/master/CVE-2014-6271.md) CVE-2014-6271
+[+][CVE-2014-6271](https://github.com/linchong-cmd/BugLists/blob/master/CVE-2014-6271.md) CVE-2014-6271
